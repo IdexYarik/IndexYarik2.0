@@ -1,6 +1,12 @@
 
 HTML
 * {box-sizing: border-box;}
+footer {
+
+  padding: 1px 20px;
+  background: #000000;
+  color: white;
+}
 form {
   position: relative;
   width: 300px;
