@@ -1,15 +1,20 @@
 
 HTML
-* {box-sizing: border-box;}
-footer {
+* {box-sizing: border-box;
+  margin: 0;}
 
-  padding: 1px 20px;
+
+footer {
+  Right: 0;
+  Bottom: 0;
+  padding: 5px 0px;
+  width: 100%;
   background: #000000;
   color: white;
 }
 form {
   position: relative;
-  width: 300px;
+  width: 800px;
   margin: 0 auto;
   height: 42px;
 }
@@ -28,7 +33,7 @@ input {
   z-index: 2;
 }
 input:focus {
-  width: 300px;
+  width: 800px;
   z-index: 1;
   border-bottom: 2px solid #F9F0DA;
 }
