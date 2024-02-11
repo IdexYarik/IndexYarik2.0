@@ -37,6 +37,13 @@ input:focus {
   z-index: 1;
   border-bottom: 2px solid #F9F0DA;
 }
+.stupedYarik{
+  width: 350px;
+  display: block;
+  margin-right: 100%;
+  font-size: 24px;
+  bottom: 1000px;
+}
 button {
   background: #683B4D;
   border: none;
